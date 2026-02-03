@@ -5,11 +5,10 @@ venv/
 __pycache__/
 *.pyc
 
-
- *.pkl
+#*.pkl
 
 # Data files
- *.csv
+#*.csv
 
 # OS
 .DS_Store
